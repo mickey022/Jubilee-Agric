@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.uppernav{
+    margin-right: 500px;
+    margin-top: 50px;
+
+}
+.upperimg{
+    margin-top: -55px;
+}
+.first{
+    margin-top: 3px;
+}
+.polt{
+    border: 0px solid black;
+    border-radius: 4px;
+    width: 390px;
+    height: 250px ;
+    margin-top: -24px;
+}
+.choose{
+    background-image: url(./chose.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.inp{
+    border: 1px solid black;
+    width: 550px;
+    height: 60px;
+}
+.inp2{
+    border: 1px solid black;
+    width: 550px;
+    height: 100px;
+}
+.btn{
+    border: 1px solid rgb(245, 239, 239);
+    border-radius: 4px;
+    width: 90px;
+
+}
